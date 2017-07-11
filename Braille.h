@@ -2,6 +2,7 @@
 	Braille.h - Library for Braille characters
 	Created by Shreyas Dethe for ITSP 2017
 	Version 1.0.0
+	Released into the public domain.
 */
 
 #ifndef Braille_h
